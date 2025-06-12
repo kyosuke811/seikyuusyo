@@ -25,7 +25,6 @@
 1. Streamlitを起動：
    ```bash
    streamlit run app.py
-````
 
 2. 入力フォームに以下を記入：
 
