@@ -25,7 +25,7 @@
 1. Streamlitを起動：
    ```bash
    streamlit run app.py
-
+   ```
 2. 入力フォームに以下を記入：
 
    * `作成したい請求書の日付`：MM/DD（例：06/12）
